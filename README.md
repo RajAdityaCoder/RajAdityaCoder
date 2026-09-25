@@ -23,21 +23,22 @@ Building responsive, scalable and user-focused web applications with modern Java
 
 ### 👨‍💻 About Me
 
-I'm a BCA student and aspiring **Frontend / Full Stack Developer** focused on practical, working applications.
+Computer Applications graduate (BCA) now pursuing **MCA**, with hands-on experience across **Full Stack Development, Data Analytics and Machine Learning** built through internships and training programs.
 
-I build primarily with **React.js, JavaScript, Node.js and MongoDB**, connecting frontend interfaces to REST APIs and backend services. Also comfortable with **Java** and applying **DSA** to write cleaner, more efficient code.
+I build primarily with **React.js, Node.js, Express.js and MongoDB**, connecting frontend interfaces to REST APIs and backend services — and use **Python, SQL and Scikit-learn** for data-driven projects. Also comfortable with **Java** and applying **DSA** to write cleaner, more efficient code.
 
-Currently sharpening my full-stack skills by shipping real projects end to end.
+Currently sharpening full-stack skills by shipping real projects end to end.
 
 </td>
 <td width="45%" valign="top">
 
 ### ⚡ Quick Profile
 
-🎓&nbsp; BCA Student
+🎓&nbsp; BCA · MCA (Pursuing)
 ⚛️&nbsp; React.js
 🟢&nbsp; Node.js
 🗄️&nbsp; MongoDB
+🐍&nbsp; Python & ML
 ☕&nbsp; Java
 🧠&nbsp; DSA
 📍&nbsp; India
