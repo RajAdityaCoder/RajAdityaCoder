@@ -1,6 +1,6 @@
 <div align="center">
 
-# ADITYA RAJ CHAUDHARY
+# Hello, It's Me <br> ADITYA RAJ CHAUDHARY
 
 ### Frontend & Full Stack Developer
 
@@ -20,27 +20,27 @@ Building responsive, scalable and user-focused web applications with modern Java
 <table>
 <tr>
 <td width="55%" valign="top">
-
-### 👨‍💻 About Me
+  
+**👨‍💻 About Me**
 
 Computer Applications graduate (BCA) now pursuing **MCA**, with hands-on experience across **Full Stack Development, Data Analytics and Machine Learning** built through internships and training programs.
 
 I build primarily with **React.js, Node.js, Express.js and MongoDB**, connecting frontend interfaces to REST APIs and backend services — and use **Python, SQL and Scikit-learn** for data-driven projects. Also comfortable with **Java** and applying **DSA** to write cleaner, more efficient code.
 
-Currently sharpening full-stack skills by shipping real projects end to end.
+Currently sharpening full-stack skills by shipping real projects end to end. <br>
 
 </td>
 <td width="45%" valign="top">
 
-### ⚡ Quick Profile
+**⚡ Quick Profile**
 
-🎓&nbsp; BCA · MCA (Pursuing)
-⚛️&nbsp; React.js
-🟢&nbsp; Node.js
-🗄️&nbsp; MongoDB
-🐍&nbsp; Python & ML
-☕&nbsp; Java
-🧠&nbsp; DSA
+🎓&nbsp; BCA · MCA (Pursuing) <br>
+⚛️&nbsp; React.js <br>
+🟢&nbsp; Node.js <br>
+🗄️&nbsp; MongoDB <br>
+🐍&nbsp; Python & ML <br>
+☕&nbsp; Java <br>
+🧠&nbsp; DSA <br>
 📍&nbsp; India
 
 </td>
@@ -73,7 +73,6 @@ A customer relationship management app built with a modern React frontend, routi
 `React 19` `Vite` `React Router`
 
 [**Live Demo →**](https://crm-project-ten-virid.vercel.app) · [**View Project →**](https://github.com/RajAdityaCoder/CRM_Project)
-
 </td>
 </tr>
 <tr>
