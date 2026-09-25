@@ -20,13 +20,14 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://port-folio-adi-av-14.vercel.app/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-238636?style=for-the-badge" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="
+www.linkedin.com/in/aditya-raj-chaudhary-3628132a4/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aditch14.rahul@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -151,7 +152,7 @@ A responsive portfolio website designed to showcase my projects, technical skill
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_REPOSITORY_URL">
+<a href="https://github.com/RajAdityaCoder/PortFolio_Website.git/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
