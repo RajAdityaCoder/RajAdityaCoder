@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/linkedin_cover.png)
 <table>
 <tr>
 <td width="55%" valign="top">
