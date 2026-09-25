@@ -37,10 +37,7 @@ Currently sharpening full-stack skills by shipping real projects end to end.
 
 <br>
 
-<div align="center">
-  
-# A few projects that represent my development work
-</div>
+## 🧰 Features Project
 <table>
 <tr>
 
@@ -162,6 +159,6 @@ A **MERN-based social media platform** — authentication, user profiles, and po
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-chi-11.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditch14.rahul@gmail.com)
 
-*Building. Learning. Improving.*
+*Building · Learning · Improving*
 
 </div>
