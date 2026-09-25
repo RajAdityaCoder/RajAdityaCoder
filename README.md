@@ -1,19 +1,3 @@
-![Logo](https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/linkedin_cover.png)
-<div align="center">
-<hr>
-
-**React.js&nbsp;&nbsp;•&nbsp;&nbsp;JavaScript&nbsp;&nbsp;•&nbsp;&nbsp;Node.js&nbsp;&nbsp;•&nbsp;&nbsp;MongoDB**
-
-Building responsive, scalable and user-focused web applications with modern JavaScript technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-chaudhary-3628132a4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-chi-11.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditch14.rahul@gmail.com)
-
-</div>
-
-<br>
 
 <table>
 <tr>
