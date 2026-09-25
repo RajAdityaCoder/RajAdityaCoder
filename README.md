@@ -1,399 +1,173 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Aditya Raj Chaudhary**
+# ADITYA RAJ CHAUDHARY
 
-### `Frontend & Full Stack Developer`
+### Frontend & Full Stack Developer
 
-Building **responsive, scalable and user-focused web applications** with modern JavaScript technologies.
+**React.js&nbsp;&nbsp;•&nbsp;&nbsp;JavaScript&nbsp;&nbsp;•&nbsp;&nbsp;Node.js&nbsp;&nbsp;•&nbsp;&nbsp;MongoDB**
 
-<br>
+Building responsive, scalable and user-focused web applications with modern JavaScript technologies.
 
-<a href="https://github.com/RajAdityaCoder">
-  <img src="https://img.shields.io/badge/GitHub-RajAdityaCoder-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://portfolio-beige-chi-11.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=RajAdityaCoder&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-chi-11.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditch14.rahul@gmail.com)
 
 </div>
 
----
-
-## 🧑‍💻 About Me
+<br>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-I'm **Aditya Raj Chaudhary**, a BCA student and aspiring **Frontend / Full Stack Developer** focused on building practical web applications.
+### 👨‍💻 About Me
 
-I work primarily with **React.js, JavaScript, Node.js, MongoDB and Java**, with experience connecting frontend interfaces to REST APIs and backend services.
+I'm a BCA student and aspiring **Frontend / Full Stack Developer** focused on practical, working applications.
 
-I enjoy turning ideas into functional products while improving my skills in:
+I build primarily with **React.js, JavaScript, Node.js and MongoDB**, connecting frontend interfaces to REST APIs and backend services. Also comfortable with **Java** and applying **DSA** to write cleaner, more efficient code.
 
-* ⚡ Modern frontend development
-* 🔗 REST API integration
-* 🗄️ Database-driven applications
-* 🧩 Problem solving & DSA
-* 🚀 Performance and responsive UI
-* 🤝 Collaborative software development
+Currently sharpening my full-stack skills by shipping real projects end to end.
 
 </td>
+<td width="45%" valign="top">
 
-<td width="40%">
+### ⚡ Quick Profile
 
-```text
-┌─────────────────────────────┐
-│        DEVELOPER CARD       │
-├─────────────────────────────┤
-│                             │
-│  🎓 BCA Student             │
-│  💻 Full Stack Developer    │
-│  ⚛️ React Developer         │
-│  🟢 Node.js Developer       │
-│  ☕ Java Developer          │
-│  🗄️ MongoDB                 │
-│                             │
-│  📍 India                   │
-│  🚀 Open to Opportunities   │
-│                             │
-└─────────────────────────────┘
-```
+🎓&nbsp; BCA Student
+⚛️&nbsp; React.js
+🟢&nbsp; Node.js
+🗄️&nbsp; MongoDB
+☕&nbsp; Java
+🧠&nbsp; DSA
+📍&nbsp; India
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-# 🧰 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,dotnet" />
-</p>
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js" />
-</p>
-
-### 🛠️ Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🛒 Customer Segmentation
+**🛒 Customer Segmentation for E-Commerce**
 
-**Customer Segmentation for E-Commerce**
+Customer segmentation using EDA, SQL and clustering (K-Means, DBSCAN, PCA) to turn e-commerce purchase data into actionable business insights.
 
-A data-driven project focused on identifying meaningful customer groups from e-commerce data.
+`Python` `SQL` `Scikit-learn` `Jupyter`
 
-**Stack**
-
-`Python` `SQL` `Machine Learning`
-
-**Techniques**
-
-`K-Means` `DBSCAN` `PCA`
-
-<a href="https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**View Project →**](https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 📊 CRM Project
+**🏢 CRM Project**
 
-**Customer Relationship Management**
-
-A modern CRM application built around a structured React frontend and authentication flow.
-
-**Stack**
+A customer relationship management app built with a modern React frontend, routing and a component-driven UI.
 
 `React 19` `Vite` `React Router`
 
-**Highlights**
-
-`Authentication` `Routing` `Modern UI`
-
-<a href="https://github.com/RajAdityaCoder/CRM_Project">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**Live Demo →**](https://crm-project-ten-virid.vercel.app) · [**View Project →**](https://github.com/RajAdityaCoder/CRM_Project)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🛣️ ExpressWay
+**🛣️ ExpressWay**
 
-**Delhi–Dehradun Expressway Website**
-
-A responsive informational website designed around the Delhi–Dehradun Expressway.
-
-**Stack**
+A responsive informational website with interactive UI elements, built with vanilla web fundamentals.
 
 `HTML5` `CSS3` `JavaScript`
 
-**Focus**
-
-`Responsive UI` `Web Design` `Interactive Experience`
-
-<a href="https://github.com/RajAdityaCoder/ExpressWay">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**View Project →**](https://github.com/RajAdityaCoder/ExpressWay)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🌐 Portfolio Website
+**🌐 Portfolio Website**
 
-**Personal Developer Portfolio**
-
-A full-stack portfolio website with a frontend interface and backend contact functionality.
-
-**Stack**
+Personal developer portfolio with a separate frontend and backend for contact functionality.
 
 `HTML` `CSS` `JavaScript` `Express.js`
 
-**Features**
-
-`REST API` `CORS` `Nodemailer` `Vercel`
-
-<a href="https://portfolio-beige-chi-11.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="https://github.com/RajAdityaCoder/PortFolio_Website">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[**Live Demo →**](https://portfolio-beige-chi-11.vercel.app/) · [**View Project →**](https://github.com/RajAdityaCoder/PortFolio_Website)
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ Yukti Hackathon
-
-A React-based project developed for a hackathon environment with routed application pages.
-
-**Stack**
-
-`React` `Tailwind CSS`
-
-**Focus**
-
-`Component Architecture` `Routing` `Responsive UI`
-
-<a href="https://github.com/RajAdityaCoder/Yukti-hackathon">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ☕ Java Projects
-
-A collection of Java development and training projects covering core Java concepts and application development.
-
-**Repositories**
-
-`Java_Project` `Java_Training` `TodoApp`
-
-**Focus**
-
-`Java` `OOP` `Application Development`
-
-<a href="https://github.com/RajAdityaCoder">
-<img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
 </tr>
 </table>
 
----
+<br>
 
-# 🔥 Currently Building
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+
+</div>
+
+<br>
+
+## 🟣 Currently Building
+
+<div align="center">
 
 <table>
 <tr>
-<td width="65%">
+<td align="center">
 
-## 🟣 Kiube
+### Kiube &nbsp;🚧 *In Development*
 
-A **MERN-based social media application** focused on authentication, posts, user profiles and cloud-based media handling.
+A **MERN-based social media platform** — authentication, user profiles, and posts with cloud-based image storage.
 
-### Current Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
-
-### Core Features
-
-* 🔐 User authentication
-* 👤 User profiles
-* 📝 Create / update / delete posts
-* 🖼️ Image upload & cloud storage
-* 🔑 JWT-based authorization
-* 🔗 REST API architecture
-* ⚡ React frontend with Express backend
-
-</td>
-
-<td width="35%">
-
-```text
-KIUBE
-──────────────
-
-Frontend
-  React.js
-
-Backend
-  Node.js
-  Express.js
-
-Database
-  MongoDB
-
-Auth
-  JWT
-
-Storage
-  Cloudinary
-
-Status
-  🚧 Building
-```
+**Core features:** user auth · profiles · create/update/delete posts · image upload · JWT authorization · REST API architecture
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-# 🎯 Development Focus
+<br>
 
-| Area               | Current Focus                                   |
-| ------------------ | ----------------------------------------------- |
-| ⚛️ Frontend        | React.js, responsive UI, component architecture |
-| 🟢 Backend         | Node.js, Express.js, REST APIs                  |
-| 🗄️ Database       | MongoDB, MySQL, database operations             |
-| ☕ Java             | Core Java, JDBC, Servlets                       |
-| 🧠 Problem Solving | DSA & software design principles                |
-| 🚀 Deployment      | Vercel & production-ready applications          |
-| 🔧 Engineering     | Debugging, API integration & performance        |
-
----
-
-# 📈 GitHub Dashboard
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajAdityaCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=RajAdityaCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdityaCoder&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdityaCoder&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajAdityaCoder&theme=tokyo-night&hide_border=true&area=true" width="92%" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajAdityaCoder&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧩 Contribution Activity
+## 🤝 Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajAdityaCoder&theme=tokyo-night&hide_border=true&area=true" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-chi-11.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditch14.rahul@gmail.com)
 
-</div>
-
----
-
-# 📌 What I'm Working Toward
-
-```text
-Frontend Development
-        ↓
-Full Stack Development
-        ↓
-Production-Ready Applications
-        ↓
-Better Architecture & Performance
-        ↓
-Continuous Learning
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/RajAdityaCoder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://portfolio-beige-chi-11.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💙 Building. Learning. Improving.
-
-**Thanks for visiting my profile!**
+*Building. Learning. Improving.*
 
 </div>
