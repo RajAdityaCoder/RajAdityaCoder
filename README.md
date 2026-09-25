@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ADITYA RAJ CHAUDHARY
@@ -10,6 +9,7 @@
 Building responsive, scalable and user-focused web applications with modern JavaScript technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-chaudhary-3628132a4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-chi-11.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditch14.rahul@gmail.com)
 
@@ -151,10 +151,9 @@ A **MERN-based social media platform** — authentication, user profiles, and po
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajAdityaCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdityaCoder&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajAdityaCoder&theme=tokyo-night&hide_border=true&area=true" width="92%" />
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RajAdityaCoder&label=Repos&query=%24.public_repos&color=2563EB&style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/RajAdityaCoder?label=Stars&style=for-the-badge&color=2563EB&logo=star&logoColor=white)](https://github.com/RajAdityaCoder?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/RajAdityaCoder?label=Followers&style=for-the-badge&color=2563EB&logo=github&logoColor=white)](https://github.com/RajAdityaCoder?tab=followers)
 
 </div>
 
@@ -165,6 +164,7 @@ A **MERN-based social media platform** — authentication, user profiles, and po
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-chaudhary-3628132a4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-chi-11.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditch14.rahul@gmail.com)
 
