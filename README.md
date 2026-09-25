@@ -32,11 +32,11 @@ Currently sharpening full-stack skills by shipping real projects end to end.
 🎓&nbsp; BCA - Shambhunath College of Education, Jhalwa Prayagraj <br>
 🖥️&nbsp; Focused on React.js, Node.js, MongoDB, Python & ML, Java, DSA <br>
 🚀&nbsp; Open to exciting opportunities in Frontend / Full Stack roles
+
 </td>
 <td width="45%" valign="top">
-<br>
 
-## 🧰 Tech Stack
+**🧰 Tech Stack**
 
 **Frontend**
 <br>
@@ -79,7 +79,6 @@ A customer relationship management app built with a modern React frontend, routi
 
 `React 19` `Vite` `React Router`
 
-[**Live Demo →**](https://crm-project-ten-virid.vercel.app) <br>
 [**View Project →**](https://github.com/RajAdityaCoder/CRM_Project)
 </td>
 </tr>
@@ -103,7 +102,7 @@ Personal developer portfolio with a separate frontend and backend for contact fu
 
 `HTML` `CSS` `JavaScript` `Express.js`
 
-[**Live Demo →**](https://portfolio-beige-chi-11.vercel.app/) <br>
+[**Live Demo →**](https://port-folio-adi-av-14.vercel.app)) <br>
 [**View Project →**](https://github.com/RajAdityaCoder/PortFolio_Website)
 
 </td>
