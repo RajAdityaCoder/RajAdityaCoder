@@ -26,23 +26,29 @@ Building responsive, scalable and user-focused web applications with modern Java
 
 Computer Applications graduate (BCA) now pursuing **MCA**, with hands-on experience across **Full Stack Development, Data Analytics and Machine Learning** built through internships and training programs.
 
-I build primarily with **React.js, Node.js, Express.js and MongoDB**, connecting frontend interfaces to REST APIs and backend services — and use **Python, SQL and Scikit-learn** for data-driven projects. Also comfortable with **Java** and applying **DSA** to write cleaner, more efficient code.
-
 Currently sharpening full-stack skills by shipping real projects end to end.
 
+🎓&nbsp; MCA (Pursuing) - BBS College of Engineering and Technology, Phaphamau Prayagraj <br>
+🎓&nbsp; BCA - Shambhunath College of Education, Jhalwa Prayagraj <br>
+🖥️&nbsp; Focused on React.js, Node.js, MongoDB, Python & ML, Java, DSA <br>
+🚀&nbsp; Open to exciting opportunities in Frontend / Full Stack roles
 </td>
 <td width="45%" valign="top">
+<br>
 
-**⚡ Quick Profile**
+## 🧰 Tech Stack
 
-🎓&nbsp; BCA · MCA (Pursuing) <br>
-⚛️&nbsp; React.js <br>
-🟢&nbsp; Node.js <br>
-🗄️&nbsp; MongoDB <br>
-🐍&nbsp; Python & ML <br>
-☕&nbsp; Java <br>
-🧠&nbsp; DSA <br>
-📍&nbsp; India
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 </td>
 </tr>
@@ -103,27 +109,6 @@ Personal developer portfolio with a separate frontend and backend for contact fu
 </td>
 </tr>
 </table>
-
-<br>
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-
-**Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-
-</div>
-
 <br>
 
 ## 🟣 Currently Building
