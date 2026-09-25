@@ -1,51 +1,45 @@
 
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-# 👋 Hey, I'm **Aditya Raj Chaudhary**
+# 👋 Hi, I'm **Aditya Raj Chaudhary**
 
-### `Frontend Developer` • `Full Stack Developer` • `Problem Solver`
+### `Frontend Developer` · `Full Stack Developer` · `Problem Solver`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;React+%7C+JavaScript+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real+applications;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%7C+JavaScript+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+working+applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/RajAdityaCoder">
-  <img src="https://img.shields.io/github/followers/RajAdityaCoder?label=Followers&style=flat-square&color=161B22&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GitHub-RajAdityaCoder-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/RajAdityaCoder?tab=repositories">
-  <img src="https://img.shields.io/github/stars/RajAdityaCoder?label=Stars&style=flat-square&color=161B22&labelColor=0D1117" />
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-beige-chi-11.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://port-folio-adi-av-14.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-238636?style=for-the-badge" />
-</a>
-<a href="
-www.linkedin.com/in/aditya-raj-chaudhary-3628132a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aditch14.rahul@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=RajAdityaCoder&label=Profile%20Views&color=161B22&style=flat-square" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-I'm a **Frontend / Full Stack Developer** focused on building responsive, dynamic and practical web applications.
+I'm a **Frontend / Full Stack Developer** interested in building responsive, dynamic and practical web applications.
 
-I enjoy turning ideas into working products — from **React interfaces and REST APIs to authentication, databases and complete MERN applications**.
+My current development focus is around **React.js, JavaScript, Node.js, Express.js, MongoDB and REST APIs**, while also strengthening my problem-solving and backend development skills.
 
 ```js
 const aditya = {
   role: "Frontend / Full Stack Developer",
 
-  focus: [
+  primaryStack: [
     "React.js",
     "JavaScript",
     "Node.js",
@@ -55,15 +49,15 @@ const aditya = {
 
   interests: [
     "Web Development",
-    "UI/UX",
-    "REST APIs",
     "Full Stack Applications",
+    "REST APIs",
+    "UI Development",
     "Problem Solving"
   ],
 
-  currentlyBuilding: "Real-world full-stack applications",
+  currentlyBuilding: "MERN applications",
 
-  philosophy: "Build → Learn → Improve → Repeat"
+  mindset: "Build → Learn → Improve → Repeat"
 };
 ```
 
@@ -73,19 +67,25 @@ const aditya = {
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-### Backend & Database
+<br/><br/>
+
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-### Languages
+<br/><br/>
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,cpp,cs,python" />
 
-### Tools
+<br/><br/>
+
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -95,114 +95,282 @@ const aditya = {
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 🧠 Customer Segmentation for E-Commerce
 
-## 🟣 Kiube
+> Data analysis and machine-learning project focused on discovering meaningful customer segments from purchasing behavior.
 
-### MERN Social Media Platform
+**Tech:** `Python` `Pandas` `NumPy` `SQLite` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter`
 
-A full-stack social media application focused on authentication, user profiles, posts and media handling.
+### What I worked with
 
-**React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary**
+* Exploratory Data Analysis
+* SQL-based customer analysis
+* K-Means clustering
+* DBSCAN clustering
+* Principal Component Analysis
+* Customer-segment visualization
+* Business recommendations
 
-</div>
+### ML Techniques
 
-### ✨ Key Features
+```text
+K-Means
+   ↓
+DBSCAN
+   ↓
+PCA
+   ↓
+Customer Segmentation
+   ↓
+Business Insights
+```
 
-* 🔐 JWT-based authentication
-* 👤 User registration, login and logout
-* 📝 Create, update and delete posts
-* 🖼️ Cloudinary image uploads
-* 🛡️ Protected API routes
-* 🔗 REST API integration
-* 🗄️ MongoDB database operations
-* ⚛️ Dynamic React frontend
-
-<div align="center">
-
-<a href="https://github.com/RajAdityaCoder">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Portfolio Website
-
-### Personal Developer Portfolio
-
-A responsive portfolio website designed to showcase my projects, technical skills and developer journey.
-
-**HTML5 · CSS3 · JavaScript · Node.js · Express.js · Nodemailer**
-
-</div>
-
-### ✨ Highlights
-
-* 📱 Responsive design
-* 🎨 Modern UI
-* 🧭 Smooth navigation
-* 📂 Project showcase
-* 📩 Contact form
-* 📧 Email integration
-* ⚡ Express backend
-
-<div align="center">
-
-<a href="https://github.com/RajAdityaCoder/PortFolio_Website.git/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+🔗 **[View Repository →](./Customer-Segmentation-for-E-Commerce)**
 
 ---
 
-<div align="center">
+## 🏢 CRM Project
 
-## ☕ Java Projects
+> A React-based CRM application focused on structured navigation and authenticated application flow.
 
-### Backend & Full Stack Practice
+**Tech:** `React 19` `Vite` `React Router` `React Icons`
 
-Java-based projects developed during my full-stack training.
+### Highlights
 
-**Java · JDBC · Servlets · SQL**
+* React component architecture
+* Client-side routing
+* Login/authentication flow
+* Protected application state
+* Reusable header and footer components
+* Vite development/build workflow
 
-</div>
+🔗 **[View Repository →](./CRM_Project)**
 
-### 💡 What I Practiced
+🌐 **[Live Demo →](https://crm-project-ten-virid.vercel.app)**
 
-* Object-Oriented Programming
-* JDBC
-* Database connectivity
-* CRUD operations
-* Servlet-based applications
-* Backend development
-* Full-stack concepts
+---
 
-<a href="https://github.com/RajAdityaCoder">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🛣️ Delhi–Dehradun ExpressWay
+
+> An interactive frontend website presenting information about the Delhi–Dehradun Expressway.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+### Highlights
+
+* Responsive navigation
+* Route information
+* Expressway statistics
+* Toll information
+* Popular destinations
+* Bus passenger information
+* Interactive route finder
+* Light/dark theme control
+* Mobile navigation menu
+
+🔗 **[View Repository →](./ExpressWay)**
+
+---
+
+## 🌐 Personal Portfolio Website
+
+> My personal developer portfolio with a separate frontend and backend architecture.
+
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Nodemailer`
+
+### Architecture
+
+```text
+Portfolio Website
+│
+├── Frontend
+│   ├── UI
+│   ├── Projects
+│   ├── Skills
+│   └── Contact Form
+│
+└── Backend
+    ├── Express.js
+    ├── CORS
+    ├── Nodemailer
+    └── Environment Variables
+```
+
+🌐 **[Live Portfolio →](https://portfolio-beige-chi-11.vercel.app)**
+
+🔗 **[View Repository →](./PortFolio_Website)**
+
+---
+
+## 🏆 YUKTI Hackathon
+
+> A React-based hackathon project with multiple routed pages and a structured event experience.
+
+**Tech:** `React` `React Router` `Tailwind CSS` `JavaScript`
+
+### Pages
+
+* 🏠 Home
+* 👤 About
+* 📜 Rules
+* 🏆 Prizes
+* 📩 Contact
+
+### Development Features
+
+* React component architecture
+* Client-side routing
+* Loading screen
+* Responsive navigation
+* Tailwind CSS styling
+* Reusable components
+
+🔗 **[View Repository →](./Yukti-hackathon)**
+
+---
+
+# 📚 Java Development
+
+## ☕ Java Project
+
+A Java/Maven project developed as part of my Java development practice.
+
+**Tech:** `Java` `Maven`
+
+🔗 **[View Repository →](./Java_Project)**
+
+---
+
+## 🧪 Java Training
+
+A collection of Java training exercises organized across multiple training days.
+
+**Topics practiced include:**
+
+* Java fundamentals
+* Programming logic
+* Object-oriented concepts
+* Problem solving
+* Practical coding exercises
+
+🔗 **[View Repository →](./Java_Training)**
+
+---
+
+## 🧑‍🎓 Student Project
+
+A Maven-based Java project created for practical application development and Java/Spring-style project structure practice.
+
+**Tech:** `Java` `Maven`
+
+🔗 **[View Repository →](./student_Project)**
+
+---
+
+## ✅ TodoApp
+
+A Maven-based Java application developed as a practical project.
+
+**Tech:** `Java` `Maven`
+
+🔗 **[View Repository →](./TodoApp)**
+
+---
+
+# 🧩 Coding Practice
+
+## 💻 Coding Test
+
+A collection of Java programming problems and small implementations covering different problem-solving exercises.
+
+### Includes examples such as:
+
+* Calculator implementation
+* Car-related Java class
+* Folding rectangle problem
+* Library application
+* Repeated substring problem
+
+**Tech:** `Java`
+
+🔗 **[View Repository →](./Coding_Test)**
+
+---
+
+# ⚛️ MERN Training
+
+A dedicated repository containing my MERN-stack training work and exercises.
+
+**Tech Focus:**
+
+`MongoDB` · `Express.js` · `React.js` · `Node.js`
+
+### Training Structure
+
+```text
+MERN Training
+│
+├── Day 1
+├── Day 2
+└── Tasks
+```
+
+🔗 **[View Repository →](./MERN-Training)**
+
+---
+
+# 🚧 Currently Building
+
+## 🟣 Kiube — MERN Social Platform
+
+**Status:** `In Development`
+
+I'm currently building a full-stack social-media application using:
+
+```text
+React.js
+   +
+Node.js
+   +
+Express.js
+   +
+MongoDB
+   +
+JWT Authentication
+   +
+Cloudinary
+```
+
+Current development areas include:
+
+* Authentication
+* User profiles
+* Post creation
+* Post editing/deletion
+* Image uploads
+* REST APIs
+* Protected routes
+* Frontend/backend integration
+
+> This project is currently being developed and is **not listed as a public repository yet**.
 
 ---
 
 # 💼 Experience
 
-### `Java Full Stack Trainee`
+### Java Full Stack Trainee
 
 **Softronic Automation**
 
-Worked on Java backend development, JDBC, Servlets, database operations, REST APIs and frontend-backend integration.
+Worked with Java, JDBC, Servlets, database operations, REST APIs and frontend-backend integration during full-stack training.
 
-### `MERN Full Stack Trainee`
+### MERN Full Stack Trainee
 
 **Softronic Automation**
 
-Worked with MongoDB, Express.js, React.js and Node.js while developing REST APIs and full-stack applications.
+Worked with MongoDB, Express.js, React.js and Node.js while practicing REST API integration and full-stack application development.
 
-### `AI & ML Intern`
+### AI & ML Intern
 
 **EI Systems Services · June 2024 – August 2024**
 
@@ -210,24 +378,24 @@ Worked with Python, data preprocessing, machine-learning models, predictive mode
 
 ---
 
-# 🎯 What I'm Focused On
+# 🎯 Current Focus
 
 <div align="center">
 
-| Area               | Current Focus                         |
-| :----------------- | :------------------------------------ |
+| Area               | Focus                                 |
+| ------------------ | ------------------------------------- |
 | ⚛️ Frontend        | React.js · JavaScript · Responsive UI |
 | 🟢 Backend         | Node.js · Express.js · REST APIs      |
 | 🗄️ Database       | MongoDB · MySQL · MS-SQL              |
-| 🔐 Security        | Authentication · Authorization · JWT  |
-| 🧠 Problem Solving | DSA · Algorithms · Clean Code         |
+| 🔐 Authentication  | JWT · Protected Routes                |
+| 🧠 Problem Solving | DSA · Algorithms                      |
 | 🚀 Development     | Full Stack Applications               |
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# 📖 Currently Learning
 
 ```text
 01  Advanced React.js
@@ -235,48 +403,14 @@ Worked with Python, data preprocessing, machine-learning models, predictive mode
 03  Backend Architecture
 04  REST API Design
 05  Authentication & Security
-06  Database Optimization
+06  Database Design
 07  Data Structures & Algorithms
 08  Clean Code & Software Design
 ```
 
 ---
 
-# 🧭 My Development Workflow
-
-<div align="center">
-
-### 💡 Idea
-
-↓
-
-### 📝 Plan
-
-↓
-
-### 🎨 Design
-
-↓
-
-### ⚛️ Build
-
-↓
-
-### 🧪 Test & Debug
-
-↓
-
-### 🚀 Deploy
-
-↓
-
-### 🔄 Improve
-
-</div>
-
----
-
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -284,11 +418,13 @@ Worked with Python, data preprocessing, machine-learning models, predictive mode
 
 </div>
 
-<p align="center">
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=RajAdityaCoder&label=Profile%20Views&color=161B22&style=flat-square" />
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdityaCoder&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150"/>
+
+</div>
 
 ---
 
@@ -297,15 +433,15 @@ Worked with Python, data preprocessing, machine-learning models, predictive mode
 <div align="center">
 
 <a href="https://github.com/RajAdityaCoder">
-<img src="https://img.shields.io/badge/GitHub-RajAdityaCoder-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-RajAdityaCoder-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome"/>
+<a href="https://portfolio-beige-chi-11.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -314,14 +450,10 @@ Worked with Python, data preprocessing, machine-learning models, predictive mode
 
 <div align="center">
 
-### 💻 Build something meaningful.
-
-### 🚀 Keep learning.
-
-### ⚡ Keep shipping.
+### `Build.` `Learn.` `Improve.` `Repeat.`
 
 <br/>
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile! 🚀**
 
 </div>
