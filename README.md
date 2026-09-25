@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hello, It's Me <br> ADITYA RAJ CHAUDHARY
+**Hello, It's Me** <br> 
+# ADITYA RAJ CHAUDHARY
 
 ### Frontend & Full Stack Developer
 
@@ -27,7 +28,7 @@ Computer Applications graduate (BCA) now pursuing **MCA**, with hands-on experie
 
 I build primarily with **React.js, Node.js, Express.js and MongoDB**, connecting frontend interfaces to REST APIs and backend services — and use **Python, SQL and Scikit-learn** for data-driven projects. Also comfortable with **Java** and applying **DSA** to write cleaner, more efficient code.
 
-Currently sharpening full-stack skills by shipping real projects end to end. <br>
+Currently sharpening full-stack skills by shipping real projects end to end.
 
 </td>
 <td width="45%" valign="top">
@@ -72,7 +73,8 @@ A customer relationship management app built with a modern React frontend, routi
 
 `React 19` `Vite` `React Router`
 
-[**Live Demo →**](https://crm-project-ten-virid.vercel.app) · [**View Project →**](https://github.com/RajAdityaCoder/CRM_Project)
+[**Live Demo →**](https://crm-project-ten-virid.vercel.app) <br>
+[**View Project →**](https://github.com/RajAdityaCoder/CRM_Project)
 </td>
 </tr>
 <tr>
@@ -95,7 +97,8 @@ Personal developer portfolio with a separate frontend and backend for contact fu
 
 `HTML` `CSS` `JavaScript` `Express.js`
 
-[**Live Demo →**](https://portfolio-beige-chi-11.vercel.app/) · [**View Project →**](https://github.com/RajAdityaCoder/PortFolio_Website)
+[**Live Demo →**](https://portfolio-beige-chi-11.vercel.app/) <br>
+[**View Project →**](https://github.com/RajAdityaCoder/PortFolio_Website)
 
 </td>
 </tr>
