@@ -37,57 +37,77 @@ Currently sharpening full-stack skills by shipping real projects end to end.
 
 <br>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🛒 Customer Segmentation for E-Commerce**
-
-Customer segmentation using EDA, SQL and clustering (K-Means, DBSCAN, PCA) to turn e-commerce purchase data into actionable business insights.
-
-`Python` `SQL` `Scikit-learn` `Jupyter`
-
-[**View Project →**](https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce)
-
-</td>
-<td width="50%" valign="top">
-
-**🏢 CRM Project**
-
-A customer relationship management app built with a modern React frontend, routing and a component-driven UI.
-
-`React 19` `Vite` `React Router`
-
-[**View Project →**](https://github.com/RajAdityaCoder/CRM_Project)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛣️ ExpressWay**
-
-A responsive informational website with interactive UI elements, built with vanilla web fundamentals.
-
-`HTML5` `CSS3` `JavaScript`
-
-[**View Project →**](https://github.com/RajAdityaCoder/ExpressWay)
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Portfolio Website**
-
-Personal developer portfolio with a separate frontend and backend for contact functionality.
-
-`HTML` `CSS` `JavaScript` `Express.js`
-
-[**Live Demo →**](https://port-folio-adi-av-14.vercel.app)) <br>
-[**View Project →**](https://github.com/RajAdityaCoder/PortFolio_Website)
-
-</td>
-</tr>
+<div align="center">
+  
+# A few projects that represent my development work
+</div>
+<table> 
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce">
+        <img src="./assets/customer-segmentation.png" width="100%" alt="Customer Segmentation for E-Commerce"/>
+      </a>
+      🧠 Customer Segmentation for E-Commerce
+      Data-analysis and machine-learning project focused on identifying meaningful customer segments from purchasing behavior.
+      Stack
+      Python Pandas NumPy SQLite Scikit-learn
+      Highlights
+      EDA · SQL Analysis · K-Means · DBSCAN · PCA
+      <a href="https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce"> 
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-thebadge&logo=github&logoColor=white"/> 
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RajAdityaCoder/CRM_Project">
+        <img src="./assets/crm-project.png" width="100%" alt="CRM Project"/>
+      </a>
+      🏢 CRM Project
+      React-based CRM application focused on structured navigation and authenticated application flow.
+      Stack
+      React 19 Vite React Router React Icons
+      Highlights
+      Authentication · Protected Flow · Component Architecture
+      <a href="https://github.com/RajAdityaCoder/CRM_Project">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://crm-project-ten-virid.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RajAdityaCoder/ExpressWay">
+        <img src="./assets/expressway.png" width="100%" alt="Delhi Dehradun ExpressWay"/>
+      </a>
+      🛣️ Delhi–Dehradun ExpressWay
+      Interactive frontend website presenting information about the Delhi–Dehradun Expressway.
+      Stack
+      HTML5 CSS3 JavaScript
+      Highlights
+      Responsive UI · Route Finder · Statistics · Theme Control
+      <a href="https://github.com/RajAdityaCoder/ExpressWay">
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RajAdityaCoder/PortFolio_Website">
+        <img src="./assets/portfolio.png" width="100%" alt="Personal Portfolio Website"/>
+      </a>
+      🌐 Personal Portfolio
+      Full-stack personal portfolio with a separate frontend and backend architecture.
+      Stack
+      HTML CSS JavaScript Node.js Express.js
+      Highlights
+      REST API · Contact Form · Nodemailer · Vercel
+      <a href="https://portfolio-beige-chi-11.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+      <a href="https://github.com/RajAdityaCoder/PortFolio_Website">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
 <br>
 
@@ -110,18 +130,6 @@ A **MERN-based social media platform** — authentication, user profiles, and po
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RajAdityaCoder&label=Repos&query=%24.public_repos&color=2563EB&style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajAdityaCoder?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/RajAdityaCoder?label=Stars&style=for-the-badge&color=2563EB&logo=star&logoColor=white)](https://github.com/RajAdityaCoder?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/RajAdityaCoder?label=Followers&style=for-the-badge&color=2563EB&logo=github&logoColor=white)](https://github.com/RajAdityaCoder?tab=followers)
 
 </div>
 
