@@ -45,7 +45,7 @@ Currently sharpening full-stack skills by shipping real projects end to end.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce">
-        <img src="./assets/customer-segmentation.png" width="100%" alt="Customer Segmentation for E-Commerce"/>
+        <img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/customer-segmentation.jpg" width="100%" alt="Customer Segmentation for E-Commerce"/>
       </a>
       🧠 Customer Segmentation for E-Commerce
       Data-analysis and machine-learning project focused on identifying meaningful customer segments from purchasing behavior.
@@ -59,7 +59,7 @@ Currently sharpening full-stack skills by shipping real projects end to end.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/RajAdityaCoder/CRM_Project">
-        <img src="./assets/crm-project.png" width="100%" alt="CRM Project"/>
+        <img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/CRM_Project.png" width="100%" alt="CRM Project"/>
       </a>
       🏢 CRM Project
       React-based CRM application focused on structured navigation and authenticated application flow.
@@ -78,7 +78,7 @@ Currently sharpening full-stack skills by shipping real projects end to end.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/RajAdityaCoder/ExpressWay">
-        <img src="./assets/expressway.png" width="100%" alt="Delhi Dehradun ExpressWay"/>
+        <img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/delhi-dehradun-expressway.jpg" width="100%" alt="Delhi Dehradun ExpressWay"/>
       </a>
       🛣️ Delhi–Dehradun ExpressWay
       Interactive frontend website presenting information about the Delhi–Dehradun Expressway.
@@ -92,7 +92,7 @@ Currently sharpening full-stack skills by shipping real projects end to end.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/RajAdityaCoder/PortFolio_Website">
-        <img src="./assets/portfolio.png" width="100%" alt="Personal Portfolio Website"/>
+        <img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/Portfolio.png" width="100%" alt="Personal Portfolio Website"/>
       </a>
       🌐 Personal Portfolio
       Full-stack personal portfolio with a separate frontend and backend architecture.
