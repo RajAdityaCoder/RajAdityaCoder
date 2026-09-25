@@ -1,10 +1,6 @@
-[![Logo]()]
+![Logo](https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/linkedin_cover.png)
 <div align="center">
-
-**Hello, It's Me** <br>
-# ADITYA RAJ CHAUDHARY
-
-### Frontend & Full Stack Developer
+<hr>
 
 **React.js&nbsp;&nbsp;•&nbsp;&nbsp;JavaScript&nbsp;&nbsp;•&nbsp;&nbsp;Node.js&nbsp;&nbsp;•&nbsp;&nbsp;MongoDB**
 
