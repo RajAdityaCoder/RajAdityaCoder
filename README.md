@@ -48,7 +48,7 @@ Currently sharpening full-stack skills by shipping real projects end to end.
 
 <a href="https://github.com/RajAdityaCoder/Customer-Segmentation-for-E-Commerce">
 
-<img src="./assets/customer-segmentation.png" width="400" alt="Customer Segmentation"/>
+<img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/customer-segmentation.jpg" width="400" alt="Customer Segmentation"/>
 
 </a>
 
@@ -68,7 +68,7 @@ Machine-learning project for analyzing e-commerce customers and identifying mean
 
 <a href="https://github.com/RajAdityaCoder/CRM_Project">
 
-<img src="./assets/crm-project.png" width="400" alt="CRM Project"/>
+<img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/CRM_Project.png" width="400" alt="CRM Project"/>
 
 </a>
 
@@ -88,7 +88,7 @@ CRM application focused on authentication, routing and structured React applicat
 
 <a href="https://github.com/RajAdityaCoder/ExpressWay">
 
-<img src="./assets/expressway.png" width="400" alt="ExpressWay"/>
+<img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/delhi-dehradun-expressway.jpg" width="400" alt="ExpressWay"/>
 
 </a>
 
@@ -108,7 +108,7 @@ Responsive informational website with route information, statistics and interact
 
 <a href="https://github.com/RajAdityaCoder/PortFolio_Website">
 
-<img src="./assets/portfolio.png" width="400" alt="Portfolio"/>
+<img src="https://github.com/RajAdityaCoder/RajAdityaCoder/blob/main/Portfolio.png" width="400" alt="Portfolio"/>
 
 </a>
 
@@ -118,7 +118,7 @@ HTML · CSS · JavaScript · Node.js · Express.js
 
 Full-stack portfolio with backend contact functionality and deployment.
 
-<a href="https://portfolio-beige-chi-11.vercel.app/">
+<a href="https://port-folio-adi-av-14.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
